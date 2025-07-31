@@ -1,0 +1,49 @@
+query,rewritten_query,answer,groundedness,correctness,fluency
+What was Meta's total revenue in Q1 2024?,Meta (META) total revenue Q1 2024,"Based on the provided financial report, Meta's total revenue for the first quarter of 2024 was **$36,455 million** (or $36.455 billion).",4,3,5
+By what percentage did Meta's revenue increase compared to Q1 2023?,Meta Q1 2024 vs Q1 2023 revenue growth,"Based on the provided financial report, Meta's revenue for Q1 2024 grew by **27%** compared to Q1 2023.
+
+*   **Q1 2024 Revenue:** $36,455 million
+*   **Q1 2023 Revenue:** $28,645 million",5,4,5
+What was the net income for Meta in Q1 2024?,META Net Income Q1 2024,"Based on the financial report, Meta's net income for the first quarter of 2024 was **$12,369 million** (or $12.37 billion).
+
+This figure is listed on the ""Condensed Consolidated Statements of Income"" for the three months ended March 31, 2024.",3,4,2
+How much did diluted EPS increase year-over-year in Q1 2024?,Q1 2024 diluted EPS YoY change,"Based on the provided context, the Q1 2024 diluted EPS (Earnings Per Share) and its year-over-year change are not available. The documents include the Condensed Consolidated Statements of Cash Flows and a Reconciliation of GAAP to Non-GAAP Results for revenue and free cash flow, but do not contain information on earnings per share.",4,3,5
+What was Meta's operating margin in Q1 2024?,Meta (META) operating margin Q1 2024,"Based on the provided financial report, Meta's operating margin for the first quarter of 2024 was **38%**.
+
+This is stated in the ""First Quarter 2024 Financial Highlights"" table on page 1, which also shows this is an increase from the 25% operating margin reported in Q1 2023.",5,5,4
+How many daily active people (DAP) did Meta report in March 2024?,Meta Q1 2024 Family Daily Active People (DAP),"Based on the provided financial report, here are the details for Meta's Family Daily Active People (DAP) for Q1 2024:
+
+*   **DAP:** 3.24 billion on average for March 2024.
+*   **Year-over-year change:** This was an increase of 7%.",4,5,4
+What was the year-over-year growth in ad impressions across Meta’s Family of Apps?,**Meta Family of Apps ad impressions year-over-year growth**,"Based on the provided financial report, ad impressions delivered across Meta's Family of Apps increased by **20%** year-over-year for the first quarter of 2024.",3,4,2
+By how much did the average price per ad increase compared to Q1 2023?,**Change in average price per ad vs Q1 2023**,"Based on the provided context, the ""Change in average price per ad vs Q1 2023"" is not mentioned.
+
+The documents do provide the following related information for the three months ended March 31:
+
+*   **GAAP advertising revenue:** Grew from $28,101 million in 2023 to $35,635 million in 2024.
+*   **GAAP advertising revenue year-over-year change %:** 27%",4,5,5
+What were Meta's capital expenditures in Q1 2024?,**Meta capital expenditures Q1 2024**,"Based on the provided context, Meta's capital expenditures for the first quarter of 2024 were **$6.72 billion**.
+
+This figure, which includes principal payments on finance leases, is listed under the ""First Quarter 2024 Operational and Other Financial Highlights"" on page 1 of the report.",4,5,4
+How much did Meta spend on share repurchases in Q1 2024?,META Q1 2024 share repurchases,"Based on the provided financial report, here is the information regarding Meta's Q1 2024 share repurchases:
+
+In the first quarter of 2024, Meta repurchased **$14.64 billion** of its Class A common stock.
+
+This is stated on Page 1 of the report under the ""Capital return program"" highlight.",5,4,3
+"What was the total amount of Meta’s cash, cash equivalents, and marketable securities as of March 31, 2024?","Meta Q1 2024 cash, cash equivalents, and marketable securities","Based on the financial report, Meta's cash, cash equivalents, and marketable securities were **$58.12 billion** as of March 31, 2024.
+
+This figure is composed of:
+*   **Cash and cash equivalents:** $32,307 million ($32.31 billion)
+*   **Marketable securities:** $25,813 million ($25.81 billion)",3,3,4
+How many employees did Meta have at the end of Q1 2024?,Meta headcount Q1 2024,"Based on the provided financial report, Meta's headcount as of March 31, 2024, was **69,329**. This represented a 10% decrease year-over-year.",4,3,2
+What is Meta's updated full-year 2024 expense forecast?,Meta full-year 2024 total expense guidance,"Based on the provided context, Meta's full-year 2024 total expense guidance is expected to be in the range of **$96-99 billion**.
+
+This is an updated outlook from the prior range of $94-99 billion, with the increase attributed to ""higher infrastructure and legal costs.""",5,3,4
+How much loss did Reality Labs report in Q1 2024?,Reality Labs operating loss Q1 2024,"Based on the provided financial report, the operating loss for the Reality Labs (RL) segment for the three months ended March 31, 2024, was **$3,846 million**.",3,3,3
+What is the expected capital expenditure range for Meta in full-year 2024?,Meta 2024 capital expenditure guidance,"Based on the provided context, here is Meta's 2024 capital expenditure guidance:
+
+*   **Full-Year 2024 Guidance:** The company anticipates full-year 2024 capital expenditures will be in the range of **$35 billion to $40 billion**.
+
+*   **Reason for Guidance:** This range represents an increase from the prior guidance of $30-$37 billion, driven by accelerated infrastructure investments to support its artificial intelligence (AI) roadmap.
+
+*   **Future Outlook:** The company also expects capital expenditures to continue to increase in 2025 to support its AI research and development efforts.",4,4,4
