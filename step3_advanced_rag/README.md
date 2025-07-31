@@ -111,7 +111,6 @@ Question:
  - Helps detect overconfidence or underperformance of the LLM judge.
 
 ![Evaluation](image.png)
-
 ### ✅ Chunk Size Experimentation
 
 - Re-chunked the document with different sizes (100, 200, 300)
